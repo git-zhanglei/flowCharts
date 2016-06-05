@@ -5,3 +5,4 @@ Git has change ture
 excited success!!!!!!
 change dev baranch is quick and simple!
 manage branch --no -ff
+fix bug
