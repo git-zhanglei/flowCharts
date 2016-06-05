@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git has change ture
 excited success!!!!!!
 change dev baranch is quick and simple!
+manage branch --no -ff
