@@ -3,4 +3,4 @@ Git is free software under the GPL
 Git has a mutable index called stage
 Git has change ture
 excited success!!!!!!
-change dev baranch is quick &  simple
+change dev baranch is quick and simple!
