@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T02:47:51.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="DMiv5bPNyNexd4OqhZk7" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T02:53:04.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Cet7m4dMBMKtDVnhX16V" version="14.8.4" type="github">
   <diagram id="a0-VXBY5YChOVK4LlPnO" name="第 1 页">
     <mxGraphModel dx="1459" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eOtkvtTxVETns7pGdinw-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="840" height="240" as="geometry" />
+          <mxGeometry x="160" y="60" width="840" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eOtkvtTxVETns7pGdinw-9" target="eOtkvtTxVETns7pGdinw-15">
           <mxGeometry relative="1" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="120" width="190" height="180" as="geometry" />
+          <mxGeometry x="670" y="100" width="190" height="220" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-21" value="添加摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="140" width="150" height="40" as="geometry" />
+          <mxGeometry x="690" y="113" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-22" value="添加图片/文字/绿幕/美颜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690.5" y="190" width="149.5" height="40" as="geometry" />
+          <mxGeometry x="690.5" y="163" width="149.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-23" value="设置其他直播插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="150" height="40" as="geometry" />
+          <mxGeometry x="690" y="213" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eOtkvtTxVETns7pGdinw-24">
           <mxGeometry relative="1" as="geometry">
@@ -123,10 +123,10 @@
           <mxGeometry x="1476" y="293" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-40" value="直播控制台" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="725" y="95" width="80" height="20" as="geometry" />
+          <mxGeometry x="725" y="76" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-42" value="Electron PC直播伴侣" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="171" y="90" width="130" height="20" as="geometry" />
+          <mxGeometry x="171" y="72" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-43" value="观看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1423" y="140" width="40" height="20" as="geometry" />
@@ -136,6 +136,9 @@
         </mxCell>
         <mxCell id="eOtkvtTxVETns7pGdinw-49" value="观看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1423" y="235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eOtkvtTxVETns7pGdinw-50" value="直播互动工具" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="262" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
